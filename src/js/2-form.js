@@ -30,3 +30,4 @@ feedbackForm.addEventListener('submit', evt => {
   localStorage.removeItem(localStorageKey);
   feedbackForm.reset();
 });
+
